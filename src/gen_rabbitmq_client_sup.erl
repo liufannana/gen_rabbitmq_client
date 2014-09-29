@@ -1,5 +1,5 @@
 -module(gen_rabbitmq_client_sup).
-
+-author('LiuFan <liufanyansha@sina.cn>').
 -behaviour(supervisor).
 
 %% API

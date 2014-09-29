@@ -1,5 +1,5 @@
 -module(gen_rabbitmq_client_app).
-
+-author('LiuFan <liufanyansha@sina.cn>').
 -behaviour(application).
 
 %% Application callbacks
